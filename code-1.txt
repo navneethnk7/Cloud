@@ -1,1 +1,5 @@
-Hi! This is Cloud class.
+# Hi! This is Cloud class. Sample code..
+
+
+println('Hello World!');
+
