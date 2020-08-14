@@ -1,5 +1,7 @@
 # Hi! This is Cloud class. Sample code..
 
+int a;
 
-println('Hello World!');
+a = b + c;
+println(a);
 
