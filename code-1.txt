@@ -5,4 +5,4 @@ int a;
 a = b + c;
 println(a);
 
-# This is to test merge.
+# Merge conflict fixed
